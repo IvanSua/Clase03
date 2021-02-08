@@ -1,0 +1,11 @@
+Comando para terminal:
+- dir : Muestra todas las carpetas (". (punto)" son archivos ocultos)
+- cd + "cualquier nombre que sea accesible" : Es avanzar en la ruta o ingresar aun programa
+- cd .. : Vuelve.
+- cls : se limpia la consola.
+app:
+github, bitbucket, gitlab. Son lo mismo.
+git status: para ver las acciones que se estan por hacer
+git add . : agrega los programas al repostirio online.
+git -m "lo que se sube" : dejar un comentario.
+git clone es para copiar el repositorio.
